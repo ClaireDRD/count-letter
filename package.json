@@ -1,0 +1,14 @@
+{
+  "name": "countletter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countLetters.js",
+  "scripts": {
+    "test": "mocha countLetters.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.2"
+  }
+}
